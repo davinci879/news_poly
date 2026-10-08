@@ -1,2 +1,2 @@
 # news_poly
-news
+新闻聚合客户端
